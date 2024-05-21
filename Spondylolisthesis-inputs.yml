@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/spondylolisthesis---primary.py
+inputModule3:
+  class: File
+  path: python/spondylolisthesis-fusion---primary.py
+inputModule4:
+  class: File
+  path: python/spondylolisthesis-grade---primary.py
+inputModule5:
+  class: File
+  path: python/spondylolisthesis-procedure---primary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
